@@ -23,7 +23,7 @@
 ## Visualizations
 
 ### **1. Trend of Tobacco Use Over the Years**
-![Tobacco Use Trends](link_to_image_2)
+![Tobacco Use Trends](https://github.com/Meghacodess/Assignment/blob/main/img.png?raw=true)
 - Clear **declining trend** over time, suggesting anti-smoking policies have been effective.
 
 ## How to Use This Data
